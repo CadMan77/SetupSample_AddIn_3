@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 24.0-->
+  <ClassId>{34b4bb25-4389-4ddc-bf88-219f8ee5d45c}</ClassId>
+  <ClientId>{34b4bb25-4389-4ddc-bf88-219f8ee5d45c}</ClientId>
+  <DisplayName>SetupSample_AddIn</DisplayName>
+  <Description>SetupSample_AddIn</Description>
+  <Assembly>SetupSample_AddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
