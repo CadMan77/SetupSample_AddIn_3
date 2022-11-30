@@ -72,8 +72,9 @@
 		<UIRef Id="MyWixUI_InstallDir" />
 		<!--<UIRef Id="WixUI_ErrorProgressText" />-->
 
-		<Property Id="LAUNCHAPPONEXIT" Value="1" />
-		<!--Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch Autodesk Inventor" /-->
+		<!--Property Id="LAUNCHAPPONEXIT" Value="1" /-->
+		<Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch Autodesk Inventor" />
+		<Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOX" Value="1" />
 		<!--Publish Dialog="MyExitDialog"
 			Control="Finish"
 			Event="DoAction"
